@@ -33,7 +33,7 @@ public class TemplatesTest {
         List listFor = new ArrayList();
         listFor.add("1");
         listFor.add("2");
-        //list.for
+        // list.for
         for (Object o : listFor) {
 
         }

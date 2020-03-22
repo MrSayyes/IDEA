@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0406ffb9-5772-48aa-9ba1-f528da27ced0" name="Default Changelist" comment="" />
+    <list default="true" id="0406ffb9-5772-48aa-9ba1-f528da27ced0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +45,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="JavaeeView">
     <option name="frameworksView" value="false" />
     <option name="showModules" value="false" />
@@ -78,6 +83,7 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1ZTHKvZWlCE6rwIzErm2d0zDQaR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -86,6 +92,7 @@
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="ignore.virus.scanning.warn.message" value="true" />
@@ -321,7 +328,8 @@
       <updated>1584856103741</updated>
       <workItem from="1584856106802" duration="11491000" />
       <workItem from="1584868501500" duration="10663000" />
-      <workItem from="1584895333693" duration="208000" />
+      <workItem from="1584895333693" duration="497000" />
+      <workItem from="1584895992602" duration="58000" />
     </task>
     <servers />
   </component>
@@ -429,10 +437,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="782" y="125" width="582" height="524" key="StructurePopup/0.0.1366.728@0.0.1366.728" timestamp="1584864947344" />
-    <state x="353" y="174" key="com.intellij.ide.util.TipDialog" timestamp="1584895467382">
+    <state x="353" y="174" key="com.intellij.ide.util.TipDialog" timestamp="1584895995167">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="353" y="174" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584895467382" />
+    <state x="353" y="174" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584895995167" />
     <state x="363" y="113" width="786" height="600" key="find.popup" timestamp="1584864040720">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
