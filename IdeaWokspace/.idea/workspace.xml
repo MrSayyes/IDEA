@@ -99,7 +99,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunDashboard">
     <option name="excludedTypes">
@@ -329,7 +329,9 @@
       <workItem from="1584856106802" duration="11491000" />
       <workItem from="1584868501500" duration="10663000" />
       <workItem from="1584895333693" duration="497000" />
-      <workItem from="1584895992602" duration="58000" />
+      <workItem from="1584895992602" duration="366000" />
+      <workItem from="1584939426659" duration="1757000" />
+      <workItem from="1584943044378" duration="40000" />
     </task>
     <servers />
   </component>
@@ -373,10 +375,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="431" y="101" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1584894417446" />
-    <state x="282" y="125" key="FileChooserDialogImpl" timestamp="1584892687834">
+    <state x="282" y="166" width="440" height="477" key="FileChooserDialogImpl" timestamp="1584939549223">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="282" y="125" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584892687834" />
+    <state x="282" y="166" width="440" height="477" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584939549223" />
     <state width="1286" height="193" key="GridCell.Tab.0.bottom" timestamp="1584893877157">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -429,18 +431,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="327" y="62" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1584876403018" />
-    <state x="148" y="12" key="SettingsEditor" timestamp="1584895501385">
+    <state x="148" y="12" key="SettingsEditor" timestamp="1584942729396">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="148" y="12" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584895501385" />
+    <state x="148" y="12" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584942729396" />
     <state x="782" y="125" width="582" height="524" key="StructurePopup" timestamp="1584864947344">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="782" y="125" width="582" height="524" key="StructurePopup/0.0.1366.728@0.0.1366.728" timestamp="1584864947344" />
-    <state x="353" y="174" key="com.intellij.ide.util.TipDialog" timestamp="1584895995167">
+    <state width="498" height="456" key="SwitcherDM" timestamp="1584978979298">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="353" y="174" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584895995167" />
+    <state width="498" height="456" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1584978979298" />
+    <state x="353" y="174" key="com.intellij.ide.util.TipDialog" timestamp="1584978919043">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="353" y="174" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584978919043" />
     <state x="363" y="113" width="786" height="600" key="find.popup" timestamp="1584864040720">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -453,10 +459,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="553" y="250" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup/0.0.1366.728@0.0.1366.728" timestamp="1584863420753" />
-    <state x="99" y="0" key="new project wizard" timestamp="1584893616763">
+    <state x="98" y="0" key="new project wizard" timestamp="1584941037600">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="99" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1584893616763" />
+    <state x="98" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1584941037600" />
     <state x="675" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1584864777723">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
