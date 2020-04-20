@@ -15,7 +15,6 @@ public class TemplatesTest {
     //psfi/psfs
     public static final int b = 1;
     public static final String c = "2";
-
     //模板1：psvm
     public static void main(String[] args) {
         //模板2：sout

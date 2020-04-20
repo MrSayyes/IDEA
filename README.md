@@ -98,8 +98,9 @@ eclipse可以在一个workspace下面建立很多project在一个视图显示，
 ### 2、设置的功能
 
 - Appearance & Behavior ：外观和行为
-  - 主题（外部下载可以导入）
-
+  
+- 主题（外部下载可以导入）
+  
 - Keymap：快捷键
 
 - Editor：编辑
